@@ -1,0 +1,15 @@
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\net6.0\AbstractFactoryHandsOn.csproj.AssemblyReference.cache
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\net6.0\AbstractFactoryHandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\net6.0\AbstractFactoryHandsOn.AssemblyInfoInputs.cache
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\net6.0\AbstractFactoryHandsOn.AssemblyInfo.cs
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\net6.0\AbstractFactoryHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\bin\Debug\net6.0\AbstractFactoryHandsOn.exe
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\bin\Debug\net6.0\AbstractFactoryHandsOn.deps.json
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\bin\Debug\net6.0\AbstractFactoryHandsOn.runtimeconfig.json
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\bin\Debug\net6.0\AbstractFactoryHandsOn.dll
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\bin\Debug\net6.0\ref\AbstractFactoryHandsOn.dll
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\bin\Debug\net6.0\AbstractFactoryHandsOn.pdb
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\net6.0\AbstractFactoryHandsOn.dll
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\net6.0\ref\AbstractFactoryHandsOn.dll
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\net6.0\AbstractFactoryHandsOn.pdb
+C:\Users\2064588\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\net6.0\AbstractFactoryHandsOn.genruntimeconfig.cache
